@@ -10,4 +10,4 @@
 #snowdreamtech/frps:0.46.0
 #nvidia/cuda:11.8.0-cudnn8-devel-ubuntu22.04
 #xukuanhit/air_slam:v4
-pcl5pcl5/fast_livo2
+pcl5pcl5/fast_livo2:v1
