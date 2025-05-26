@@ -12,4 +12,5 @@
 #xukuanhit/air_slam:v4
 #pcl5pcl5/fast_livo2:v1
 #coreapps/ubuntu16.04:2025-02-16
-jianchong/vins-fusion:latest
+#jianchong/vins-fusion:latest
+fsls/demo:latest
