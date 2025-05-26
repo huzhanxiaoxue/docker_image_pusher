@@ -11,6 +11,6 @@
 #nvidia/cuda:11.8.0-cudnn8-devel-ubuntu22.04
 #xukuanhit/air_slam:v4
 #pcl5pcl5/fast_livo2:v1
-coreapps/ubuntu16.04:2025-02-16
+#coreapps/ubuntu16.04:2025-02-16
 #jianchong/vins-fusion:latest
-#fsls/demo:latest
+fsls/demo:latest
