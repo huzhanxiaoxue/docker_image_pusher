@@ -14,5 +14,5 @@
 #coreapps/ubuntu16.04:2025-02-16
 #jianchong/vins-fusion:latest
 #fsls/demo:latest
-j3soon/gaussian_splatting:latest
-
+#j3soon/gaussian_splatting:latest
+frakw/vins-fusion-gpu:latest
