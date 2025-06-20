@@ -15,4 +15,5 @@
 #jianchong/vins-fusion:latest
 #fsls/demo:latest
 #j3soon/gaussian_splatting:latest
-frakw/vins-fusion-gpu:latest
+#frakw/vins-fusion-gpu:latest
+dockerzhiwen/instantsplat_public:2.0
