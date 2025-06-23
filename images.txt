@@ -16,4 +16,5 @@
 #fsls/demo:latest
 #j3soon/gaussian_splatting:latest
 #frakw/vins-fusion-gpu:latest
-dockerzhiwen/instantsplat_public:2.0
+#dockerzhiwen/instantsplat_public:2.0
+javahir7/mast3r:latest
