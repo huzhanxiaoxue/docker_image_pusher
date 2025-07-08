@@ -18,4 +18,5 @@
 #frakw/vins-fusion-gpu:latest
 #dockerzhiwen/instantsplat_public:2.0
 #javahir7/mast3r:latest
-mojolake/fast3r:1
+#mojolake/fast3r:1
+lucasarmand02/fast3r
