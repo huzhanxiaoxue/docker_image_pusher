@@ -17,4 +17,5 @@
 #j3soon/gaussian_splatting:latest
 #frakw/vins-fusion-gpu:latest
 #dockerzhiwen/instantsplat_public:2.0
-javahir7/mast3r:latest
+#javahir7/mast3r:latest
+mojolake/fast3r:1
