@@ -19,4 +19,5 @@
 #dockerzhiwen/instantsplat_public:2.0
 #javahir7/mast3r:latest
 #mojolake/fast3r:1
-lucasarmand02/fast3r
+#lucasarmand02/fast3r
+sylveraio/oneformer3d
