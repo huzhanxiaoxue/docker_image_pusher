@@ -21,4 +21,5 @@
 #mojolake/fast3r:1
 #lucasarmand02/fast3r
 #sylveraio/oneformer3d
-tedsamu/livox_ros2:humble-fast_livo2
+#tedsamu/livox_ros2:humble-fast_livo2
+nvidia/cuda:11.7.1-cudnn8-devel-ubuntu20.04
