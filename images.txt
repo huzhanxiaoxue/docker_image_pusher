@@ -23,4 +23,5 @@
 #sylveraio/oneformer3d
 #tedsamu/livox_ros2:humble-fast_livo2
 #nvidia/cuda:11.7.1-cudnn8-devel-ubuntu20.04
-jonathonyin/better-fast-lio2:0.2.2
+#jonathonyin/better-fast-lio2:0.2.2
+tomasparks/gsplat:lastest
