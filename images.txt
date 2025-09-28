@@ -24,4 +24,5 @@
 #tedsamu/livox_ros2:humble-fast_livo2
 #nvidia/cuda:11.7.1-cudnn8-devel-ubuntu20.04
 #jonathonyin/better-fast-lio2:0.2.2
-tomasparks/gsplat:lastest
+#tomasparks/gsplat:lastest
+lsmith9003/nerf_studio_gsplat_container:0.1
