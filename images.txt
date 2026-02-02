@@ -26,4 +26,5 @@
 #jonathonyin/better-fast-lio2:0.2.2
 #tomasparks/gsplat:lastest
 #lsmith9003/nerf_studio_gsplat_container:0.1
-luxonis/depthai-ros:kilted-latest
+#luxonis/depthai-ros:kilted-latest
+hccz95/mattersim:all
