@@ -31,4 +31,4 @@
 #martedana/lingbot-world
 #tokohsun/orb-slam3
 #hkustswarm/d2slam
-alpine/openclaw
+alpine/openclaw:x86
