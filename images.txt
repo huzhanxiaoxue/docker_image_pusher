@@ -30,5 +30,6 @@
 #hccz95/mattersim:all
 #martedana/lingbot-world
 #tokohsun/orb-slam3
-hkustswarm/d2slam:x86
+#hkustswarm/d2slam:x86
 #alpine/openclaw:x86
+endermands/schurvins
