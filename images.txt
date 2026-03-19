@@ -32,4 +32,5 @@
 #tokohsun/orb-slam3
 #hkustswarm/d2slam:x86
 #alpine/openclaw:x86
-endermands/schurvins
+#endermands/schurvins
+zhuyueying/schurvins:noetic-20.04-opencv4
